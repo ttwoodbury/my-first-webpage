@@ -1,0 +1,20 @@
+.my-class{
+	color: green;
+	text-align: center;
+}
+
+.image-container{
+	text-align:center;
+}
+
+.tri-image:hover{
+	display: inline-block;
+  	border-radius: 1em;
+	box-shadow: 5px 5px 5px #555555;
+	transition: 0.25s;
+}
+
+.tri-image{
+	display: inline-block;
+	transition: 0.25s;
+}
